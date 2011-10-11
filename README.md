@@ -1,9 +1,7 @@
 ﻿CruxI18n
 ========
 
-Introduction goes here.
-
-This  provides a "unified" locale file for languages such Czech,Finnish,Russian.
+This  provides a "unified" locale file for languages  such as Czech,Finnish,Russian.
 
 Installation
 ========
