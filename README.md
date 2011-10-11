@@ -3,12 +3,42 @@
 
 Introduction goes here.
 
-This is an extension for the Crux e-commerce project.
+This  provides a "unified" locale file for languages such Czech,Finnish,Russian.
 
-Example
-=======
+Installation
+========
 
-Example goes here.
+Start by adding the gem to your existing Rails 3.x application's Gemfile
+
+gem 'crux_i18n',:git=>'git@github.com:railsfactory/crux_i18n.git'
+
+Now bundle up with:
+
+bundle install
+
+Next, run the rake task that copies the necessary migrations and assets to your project:
+
+rake spree_core:install
+
+rake crux:install
+
+rake crux_i18n:install
+
+And finish with a migrate:
+
+rake db:migrate
+
+Now you should be able to boot up your server with:
+
+rails s  
+
+Usage
+========
+
+Login to your store adminstration console
+
+Config your language settings
 
 
-Copyright (c) 2011 [name of extension creator], released under the New BSD License
+
+
