@@ -1,0 +1,7 @@
+<%= render :partial => 'admin/shared/configuration_menu' %>
+<h1><%=t("Language Settings")%></h1>
+<%= form_for :language, :url=>{:controller=>"languages",:action=>:add_language} do %>
+		<%=t("Language")%>
+		<%=select_tag :language,options_for_select(%w{en cs-CZ ru})%><br/><br/>
+		<%=submit_tag "Update"%>
+<% end %>
