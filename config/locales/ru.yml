@@ -1183,6 +1183,22 @@ ru:
   domain_custom : "домен пользовательских"
   customize_domain : "настройки домена"
   Editing_domain : "Редактирование домена"
-  Language Settings : "Настройки языкаí"
+  language_settings : "Настройки языкаí"
   Language : "язык"
   Language has been updated successfully : "Формулировки были успешно обновлены"
+  manage_language_settings : "Управление языковые настройки"
+  domain_customizes : "Домен Настраивает"
+  domain_customization : "настроить ваш домен"
+  Name : "имя"
+  Fee : "взнос"
+  Transaction_Fee : "Комиссия за сделку"
+  No_of_Products : "Нет продуктов"
+  Current_Plan : "Текущий план"
+  Plan_Details : "План Подробнее"
+  Billing_History : "Платежная история"
+  question_categories_admin : "Вопрос Категории"
+  
+     
+  
+
+  
