@@ -1,7 +1,7 @@
 ﻿CruxI18n
 ========
 
-CruxI18n is an extension for Spree Commerce. It is mandatory that Spree has to be installed in the system
+CruxI18n is an extension for Spree Commerce. It is mandatory that Spree and Crux has to be installed in the system
 to add this extension. CruxI18n facilitates multilingual capability by including "unified" locale file for 
 Czech, Finnish and Russian.
 
